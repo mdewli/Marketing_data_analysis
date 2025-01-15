@@ -1,2 +1,1 @@
-# Marketing_data_analysis
-DataAnalystProject_PowerBI_SQL_Python_MarketingAnalytics
+# DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics
